@@ -29,3 +29,6 @@ Merkury Merkury – najmniejsza i najbliższa Słońca planeta Układu Słoneczn
 Jako planeta dolna znajduje się dla ziemskiego obserwatora zawsze blisko Słońca, dlatego jest trudna do obserwacji.
  Mimo to należy do planet widocznych gołym okiem i była znana już w starożytności. 
 Merkurego dojrzeć można jedynie tuż przed wschodem lub tuż po zachodzie Słońca.
+ 
+Ściśle rzecz biorąc planeta i jej księżyce krążą wokół wspólnego środka masy. Tradycyjnie tylko największy obiekt z takiego układu jest nazywany planetą, lecz w przypadku planety i księżyca o zbliżonych rozmiarach mówi się czasem o planetach podwójnych (układ Ziemia-Księżyc). 
+Analogicznie układ Pluton−Charon może być określany jako podwójna planeta karłowata.
