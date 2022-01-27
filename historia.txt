@@ -11,3 +11,6 @@ Mars – czwarta od Słońca planeta Układu Słonecznego. Krąży między orbit
 
 
 Wahadłowiec kosmiczny (ang. space shuttle), in. wahadłowiec (ang. shuttle) – załogowy lub bezzałogowy statek kosmiczny, który może być wykorzystywany wielokrotnie i zwykle przystosowany jest do wynoszenia na orbitę i sprowadzania z orbity sztucznych satelitów i innych ładunków. Cechą charakterystyczną wahadłowców jest lądowanie na pasie startowym lotniska, podobnie jak samoloty, stąd używane są w stosunku do nich takie określenia jak samolot kosmiczny, rakietoplan i inne. Wahadłowce mogą natomiast startować wynoszone tradycyjną rakietą nośną lub na pokładzie większego samolotu-nosiciela.
+Skafander kosmiczny – specjalny strój wraz z dodatkowym oprzyrządowaniem umożliwiający bezpieczne wyjście i pracę człowieka w przestrzeni kosmicznej.
+
+Skafandry kosmiczne chronią astronautów, kiedy wychodzą poza statek kosmiczny. Zewnętrzne powłoki skafandra kosmicznego chronią przed szkodliwym promieniowaniem słonecznym oraz przed poruszającymi się z olbrzymią prędkością cząstkami pyłu kosmicznego, zwanego mikrometeoroidami. Powinny być białe, aby zminimalizować nagrzewanie się od Słońca. Przezroczysty, plastikowy hełm również chroni przed promieniowaniem i mikrometeoroidami.
